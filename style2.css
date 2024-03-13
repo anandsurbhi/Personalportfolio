@@ -1,0 +1,23 @@
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction  : column;
+}
+
+.box{
+    display:flex;
+    flex-direction: row; 
+    align-items: center;
+    text-align: left;
+    gap:40px;
+    margin-left: 100px;
+}
+
+img{
+    border-radius: 10%
+}
+.card{
+    border:2px solid blue;
+}
+

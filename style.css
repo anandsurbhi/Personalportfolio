@@ -1,0 +1,17 @@
+.box{
+    height:100vh;
+    width:100%;
+    background-color: whitesmoke;
+    border:2px solid black;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+   margin-top: 5%;
+}
+
+#innertext{
+    padding:30px;
+}
